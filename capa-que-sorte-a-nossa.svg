@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10151d"/><stop offset="1" stop-color="#18395a"/></linearGradient></defs>
+<rect width="900" height="900" fill="url(#g)"/>
+<circle cx="450" cy="330" r="170" fill="none" stroke="#91c9ff" stroke-opacity=".65" stroke-width="3"/>
+<path d="M250 330 Q450 130 650 330 Q450 530 250 330Z" fill="none" stroke="#91c9ff" stroke-opacity=".5" stroke-width="2"/>
+<text x="450" y="600" font-family="Arial,sans-serif" font-size="46" fill="#ffffff" text-anchor="middle" letter-spacing="5">QUE SORTE A NOSSA</text>
+<text x="450" y="660" font-family="Arial,sans-serif" font-size="30" fill="#b8dfff" text-anchor="middle">MATHEUS &amp; KAUAN</text>
+</svg>

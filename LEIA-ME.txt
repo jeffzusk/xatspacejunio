@@ -1,0 +1,7 @@
+JUNIO SPACE - pacote atualizado para prévia local.
+
+Extraia todos os arquivos na mesma pasta e abra index.html. Mantenha os MP3 e as capas junto do HTML.
+
+A HOME mantém perfil/menu/player separados. LOVE usa player estilo Spotify com capas enviadas e playlist em lista. O modal de fotos amplia a imagem na própria página.
+
+Para integração real com Supabase, configure supabase-config.js e as políticas do projeto. Não coloque chaves secretas no site.
